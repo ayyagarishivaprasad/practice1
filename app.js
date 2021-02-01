@@ -6,13 +6,8 @@ const port=process.env.PORT||3400;
 // const praticeRoute=require('./routes/test');
 var mongo = require('mongodb');
 
-<<<<<<< HEAD
-
-
-=======
 //shiva
 var userRoute1 = require('./roters/usersroute');
->>>>>>> branch1
 
  var userRoute = require('./roters/usersroute');
 
